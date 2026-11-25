@@ -58,6 +58,7 @@ SKETCHES:
 
 
 OUTPUT: 
+
 <img width="751" height="437" alt="edm3 2-7" src="https://github.com/user-attachments/ssets/3a3ade98-7edb-46a1-82b9-665cac76144b" />
 <img width="1500" height="1049" alt="Engineering Drawing — Experiment 3 2" src="https://github.com/user-attachments/assets/b859b2b7-7bfa-4e4d-92f1-d859c1c165d9" />
 
